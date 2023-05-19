@@ -103,4 +103,23 @@ i.red{
     color: #f44336;
 
 }
-	
+.tab-pane {
+	padding: 20px;
+  }
+  .tab-pane h2 {
+	margin-bottom: 20px;
+  }
+  .schedule-table {
+	margin-bottom: 30px;
+  }
+  .schedule-table thead th {
+	text-align: center;
+	font-weight: bold;
+  }
+  .schedule-table tbody td:first-child {
+	width: 120px;
+	font-weight: bold;
+  }
+  .agenda-list li {
+	font-weight: bold;
+  }	

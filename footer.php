@@ -19,6 +19,7 @@ IndabaX Gambia
 </a>
 <div class="bottom"> <a href="#" class="settings"></a> </div>
 
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 <?php wp_footer(); ?>
 <script> $("nav").find("a").click(function(e) {

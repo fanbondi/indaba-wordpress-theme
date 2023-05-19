@@ -472,23 +472,151 @@
 
 
 <section id="schedule" class="section">
-<div class="container">
-<div class="row">
-<div class="col-md-12">
-<h2 class="section-title wow fadeInUp" data-wow-delay="0s">Schedule</h2>
-<p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Info coming soon..</p>
+  <div class="container">
+    <ul class="nav nav-tabs">
+      <li class="active"><a data-toggle="tab" href="#day1">Day 1</a></li>
+      <li><a data-toggle="tab" href="#day2">Day 2</a></li>
+      <li><a data-toggle="tab" href="#day3">Day 3</a></li>
+    </ul>
+    <div class="tab-content">
+      <div id="day1" class="tab-pane fade in active">
+        <h2>Schedule - Day 1</h2>
+        <div class="schedule-table">
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>10:00 AM</td>
+                <td>Opening Ceremony</td>
+              </tr>
+              <tr>
+                <td>11:00 AM</td>
+                <td>Keynote Speech</td>
+              </tr>
+              <tr>
+                <td>12:00 PM</td>
+                <td>Lunch Break</td>
+              </tr>
+              <tr>
+                <td>1:00 PM</td>
+                <td>Workshop 1</td>
+              </tr>
+              <tr>
+                <td>3:00 PM</td>
+                <td>Panel Discussion</td>
+              </tr>
+              <tr>
+                <td>4:30 PM</td>
+                <td>Closing Ceremony</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <h2>Agenda - Day 1</h2>
+        <ul class="agenda-list list-group">
+          <li class="list-group-item">Opening Ceremony - 10:00 AM</li>
+          <li class="list-group-item">Keynote Speech - 11:00 AM</li>
+          <li class="list-group-item">Lunch Break - 12:00 PM</li>
+          <li class="list-group-item">Workshop 1 - 1:00 PM</li>
+          <li class="list-group-item">Panel Discussion - 3:00 PM</li>
+          <li class="list-group-item">Closing Ceremony - 4:30 PM</li>
+        </ul>
+      </div>
+      <div id="day2" class="tab-pane fade">
+        <h2>Schedule - Day 2</h2>
+        <div class="schedule-table">
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>9:00 AM</td>
+                <td>Registration</td>
+              </tr>
+              <tr>
+                <td>10:00 AM</td>
+                <td>Workshop 2</td>
+              </tr>
+              <tr>
+                <td>12:00 PM</td>
+                <td>Lunch Break</td>
+              </tr>
+              <tr>
+                <td>2:00 PM</td>
+                <td>Panel Discussion</td>
+              </tr>
+              <tr>
+                <td>4:00 PM</td>
+                <td>Closing Remarks</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <h2>Agenda - Day 2</h2>
+        <ul class="agenda-list list-group">
+          <li class="list-group-item">Registration - 9:00 AM</li>
+          <li class="list-group-item">Workshop 2 - 10:00 AM</li>
+          <li class="list-group-item">Lunch Break - 12:00 PM</li>
+          <li class="list-group-item">Panel Discussion - 2:00 PM</li>
+          <li class="list-group-item">Closing Remarks - 4:00 PM</li>
+        </ul>
+      </div>
+      <div id="day3" class="tab-pane fade">
+        <h2>Schedule - Day 3</h2>
+        <div class="schedule-table">
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                <th>Time</th>
+                <th>Event</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>8:30 AM</td>
+                <td>Registration</td>
+              </tr>
+              <tr>
+                <td>9:30 AM</td>
+                <td>Workshop 3</td>
+              </tr>
+              <tr>
+                <td>12:00 PM</td>
+                <td>Lunch Break</td>
+              </tr>
+              <tr>
+                <td>1:30 PM</td>
+                <td>Panel Discussion</td>
+              </tr>
+              <tr>
+                <td>3:30 PM</td>
+                <td>Closing Ceremony</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <h2>Agenda - Day 3</h2>
+        <ul class="agenda-list list-group">
+          <li class="list-group-item">Registration - 8:30 AM</li>
+          <li class="list-group-item">Workshop 3 - 9:30 AM</li>
+          <li class="list-group-item">Lunch Break - 12:00 PM</li>
+          <li class="list-group-item">Panel Discussion - 1:30 PM</li>
+          <li class="list-group-item">Closing Ceremony - 3:30 PM</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 
 
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-</div>
-</div>
 </section>
 
 
