@@ -137,12 +137,12 @@
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="speakers-member wow fadeIn" data-wow-delay="0.1s">
 <div class="">
-<img src="/wp-content/uploads/2023/05/drbah-1.jpg" alt="">
+<img src="/wp-content/uploads/2023/05/dina-1.jpg" alt="">
 </div>
 <div class="member-desc">
-<h3>Dr. Bubacarr Bah</h3>
-<h5>AIMS </h5>
-<p> Snr. Lecturer AIMS South Africa</p>
+<h3>Dr. Dina Machuve</h3>
+<h5> DevData Analytics </h5>
+<p>Cofounder & CTO, DevData Analytics, Tanzania</p>
 <div class="social-icon">
 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -156,12 +156,12 @@
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="speakers-member wow fadeIn" data-wow-delay="0.3s">
 <div class="">
-<img src="/wp-content/uploads/2023/05/banire.jpg"  alt="">
+<img src="/wp-content/uploads/2023/05/Mbemba-Hydara-1.jpg"  alt="">
 </div>
 <div class="member-desc">
-<h3>Pr. Abdoulaye Banire  Diallo</h3>
-<h5>Univerisity of Montreal</h5>
-<p>Professor and Director of the Bioinformatics Lab</p>
+<h3>Dr. Mbemba Hydara </h3>
+<h5>Univerisity of The Gambia</h5>
+<p>Dean, Faculty of I.C.T</p>
 <div class="social-icon">
 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -176,12 +176,12 @@
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="speakers-member wow fadeIn" data-wow-delay="0.3s">
 <div class="">
-<img src="/wp-content/uploads/2023/05/drjallow.jpg" alt="">
+<img src="/wp-content/uploads/2023/05/ernest.jpeg" alt="">
 </div>
 <div class="member-desc">
-<h3>Dr. Abdou Karim Jallow</h3>
-<h5>Slippery Rock University</h5>
-<p>Assoc. Prof. of Information Systems</p>
+<h3>Dr. Ernest Mwebaze</h3>
+<h5>Sunbird AI</h5>
+<p>Strategy Lead, Sunbird AI, Uganda;</p>
 <div class="social-icon">
 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -197,12 +197,12 @@
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="speakers-member wow fadeIn" data-wow-delay="0.1s">
 <div class="">
-<img src="/wp-content/uploads/2023/05/badou.jpg" alt="">
+<img src="/wp-content/uploads/2023/05/Moustapha-1.jpg" alt="">
 </div>
 <div class="member-desc">
-<h3>Mr. Badou Gaye</h3>
-<h5>MRC, The Gambia </h5>
-<p> Head of Information Technology</p>
+<h3>Prof. Moustapha Cisse</h3>
+<h5>Google AI Center </h5>
+<p> Research Scientist in AI</p>
 <div class="social-icon">
 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -218,77 +218,12 @@
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="speakers-member wow fadeIn" data-wow-delay="0.1s">
 <div class="">
-<img src="/wp-content/uploads/2023/05/man.jpg" alt="">
+<img src="/wp-content/uploads/2023/05/download.jpeg" alt="">
 </div>
 <div class="member-desc">
-<h3>Dr. Abdul Karim Ceesay</h3>
-<h5>Medical Research Council Unit, The Gambia </h5>
-<p> Head of Genomics Lab, MRC</p>
-<div class="social-icon">
-<a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-</div>
-</div>
-</div>
-</div>
-
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="speakers-member wow fadeIn" data-wow-delay="0.3s">
-<div class="">
-<img src="/wp-content/uploads/2023/05/man.jpg" alt="">
-</div>
-<div class="member-desc">
-<h3>Dr. Sheriffo Jagne</h3>
-<h5>National Public Health Laboratory, The Gambia</h5>
-<p>Ag. Director</p>
-<div class="social-icon">
-<a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-</div>
-</div>
-</div>
-</div>
-
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="speakers-member wow fadeIn" data-wow-delay="0.3s">
-<div class="">
-<img src="/wp-content/uploads/2023/05/david-1.jpg" alt="">
-</div>
-<div class="member-desc">
-<h3>David Yuri Njathi Njoroge</h3>
-<h5>Omdena</h5>
-<p><br />Machine Learning Engineer</p>
-<div class="social-icon">
-<a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-</div>
-</div>
-</div>
-</div>
-
-
-
-
-
-
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="speakers-member wow fadeIn" data-wow-delay="0.1s">
-<div class="">
-<img src="wp-content/uploads/2023/05/beran.jpg" alt="">
-</div>
-<div class="member-desc">
-<h3>Mrs. Beran Dondeh Gillen</h3>
-<h5>ITAG </h5>
-<p> President of the IT Association of the Gambia</p>
+<h3>Mr. Ousman Bah</h3>
+<h5>Ministry of Communications and Digital Economy </h5>
+<p> Minister</p>
 <div class="social-icon">
 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -307,8 +242,8 @@
 </div>
 <div class="member-desc">
 <h3>Dr. Sheriffo Ceesay</h3>
-<h5>University of St Andrews</h5>
-<p>Postdoctoral Research Associate</p>
+<h5>Huawei Technologies Research</h5>
+<p>Senior Research Engineer</p>
 <div class="social-icon">
 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -320,46 +255,6 @@
 </div>
 </div>
 
-
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="speakers-member wow fadeIn" data-wow-delay="0.1s">
-<div class="">
-<img src="/wp-content/uploads/2023/05/salomey.jpg" alt="">
-</div>
-<div class="member-desc">
-<h3>Miss Salomey Osei</h3>
-<h5>AMMI</h5>
-<p> Msc Student & ML Researcher</p>
-<div class="social-icon">
-<a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-</div>
-</div>
-</div>
-</div>
-
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="speakers-member wow fadeIn" data-wow-delay="0.3s">
-<div class="">
-<img src="/wp-content/uploads/2023/05/lama.jpg" alt="">
-</div>
-<div class="member-desc">
-<h3>Mr. Lamarana Jallow</h3>
-<h5>University of The Gambia</h5>
-<p>Lecturer UTG, Cangam Analytics </p>
-<div class="social-icon">
-<a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-</div>
-</div>
-</div>
-</div>
 <div class="col-md-3 col-sm-6 col-xs-12">
 <div class="speakers-member wow fadeIn" data-wow-delay="0.3s">
 <div class="">
@@ -367,7 +262,7 @@
 </div>
 <div class="member-desc">
 <h3>Mr. Fred Sangol Uche</h3>
-<h5>University of The Gambia</h5>
+<h5> Medical Research Council</h5>
 <p>ML Developer, Reseacher & Lecturer</p>
 <div class="social-icon">
 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
@@ -377,95 +272,6 @@
 
 </div>
 </div>
-</div>
-</div>
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="speakers-member wow fadeIn" data-wow-delay="0.3s">
-<div class="">
-<img src="/wp-content/uploads/2023/05/man.jpg" alt="">
-</div>
-<div class="member-desc">
-<h3>Mr. Hassan Sillah</h3>
-<h5>Robotics Hub Gambia</h5>
-<p>President of Robotics Hub</p>
-<div class="social-icon">
-<a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-</div>
-</div>
-</div>
-</div>
-
-
-
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="speakers-member wow fadeIn" data-wow-delay="0.3s">
-<div class="">
-<img src="/wp-content/uploads/2023/05/man.jpg" alt="">
-</div>
-<div class="member-desc">
-<h3>Mr. Ayodele Olabiyi</h3>
-<h5>MTN Nigeria</h5>
-<p>Data Scientist & NLP</p>
-<div class="social-icon">
-<a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-</div>
-</div>
-</div>
-</div>
-
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="speakers-member wow fadeIn" data-wow-delay="0.3s">
-<div class="">
-<img src="/wp-content/uploads/2023/05/man.jpg" alt="">
-</div>
-<div class="member-desc">
-<h3>Mr. Sainey Badjie</h3>
-<h5>Mettafly</h5>
-<p>CEO Mettafly</p>
-<div class="social-icon">
-<a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-</div>
-</div>
-</div>
-</div>
-
-
-<div class="col-md-3 col-sm-6 col-xs-12">
-<div class="speakers-member wow fadeIn" data-wow-delay="0.1s">
-<div class="">
-<img src="/wp-content/uploads/2023/05/man.jpg" alt="">
-</div>
-<div class="member-desc">
-<h3>Mr. Daounda Tandinag DJIBA</h3>
-<h5>BICIS Group BNP Paribas</h5>
-<p> Data Scientist</p>
-<div class="social-icon">
-<a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-<a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-</div>
-</div>
-</div>
-</div>
-
-
-
-
-
 </div>
 </div>
 </section>
@@ -483,6 +289,7 @@
         <h2>Schedule - Day 1</h2>
         <div class="schedule-table">
           <table class="table table-bordered">
+            <h2>Opening ceremony and plenary talks</h2>
             <thead>
               <tr>
                 <th>Time</th>
@@ -491,28 +298,36 @@
             </thead>
             <tbody>
               <tr>
-                <td>10:00 AM</td>
-                <td>Opening Ceremony</td>
+                <td>10:30 am - 10:40 am</td>
+                <td>Welcome Remark from Dean of ICT</td>
               </tr>
               <tr>
-                <td>11:00 AM</td>
-                <td>Keynote Speech</td>
+                <td>10:40 am - 11:10am</td>
+                <td>Dr. Dina Machuve, Cofounder & CTO, DevData Analytics, Tanzania</td>
               </tr>
               <tr>
-                <td>12:00 PM</td>
-                <td>Lunch Break</td>
+                <td>11:10 am - 11:40 am </td>
+                <td>Dr. Ernest Mwebaze, Strategy Lead, Sunbird AI, Uganda</td>
               </tr>
               <tr>
-                <td>1:00 PM</td>
-                <td>Workshop 1</td>
+                <td>11:40 am - 1:10 pm </td>
+                <td>Poster session presentation</td>
               </tr>
               <tr>
-                <td>3:00 PM</td>
-                <td>Panel Discussion</td>
+                <td>1:10 pm - 1:40 pm</td>
+                <td>Prof. Moustapha Cisse, Research Scientist in AI</td>
               </tr>
               <tr>
-                <td>4:30 PM</td>
-                <td>Closing Ceremony</td>
+                <td>1:40pm - 2:10pm</td>
+                <td>Mr. Ousman Bah, Minister, Ministry of Communications and Digital Economy</td>
+              </tr>
+              <tr>
+                <td>2:10 pm - 2:40 pm</td>
+                <td>Launch Gambia AI Network (GAIN)</td>
+              </tr>
+              <tr>
+                <td>2:40 pm - 4:00 pm</td>
+                <td>Introduce students to the Deep Learning Indaba Website and the event as a whole</td>
               </tr>
             </tbody>
           </table>
@@ -520,6 +335,7 @@
         <h2>Agenda - Day 1</h2>
         <ul class="agenda-list list-group">
           <li class="list-group-item">Opening Ceremony - 10:00 AM</li>
+          <li class="list-group-item">Breakfast - 10:30 AM</li>
           <li class="list-group-item">Keynote Speech - 11:00 AM</li>
           <li class="list-group-item">Lunch Break - 12:00 PM</li>
           <li class="list-group-item">Workshop 1 - 1:00 PM</li>
@@ -531,6 +347,7 @@
         <h2>Schedule - Day 2</h2>
         <div class="schedule-table">
           <table class="table table-bordered">
+          <h2>Practical/lab sessions for IndabaX alumni and senior university students</h2>
             <thead>
               <tr>
                 <th>Time</th>
@@ -539,31 +356,24 @@
             </thead>
             <tbody>
               <tr>
-                <td>9:00 AM</td>
-                <td>Registration</td>
+                <td>9am - 11am</td>
+                <td>Building Computer vision models</td>
               </tr>
               <tr>
-                <td>10:00 AM</td>
-                <td>Workshop 2</td>
+                <td>11:30am - 1:30pm</td>
+                <td>Natural Language Processing (NLP) / LLMs</td>
               </tr>
               <tr>
-                <td>12:00 PM</td>
-                <td>Lunch Break</td>
-              </tr>
-              <tr>
-                <td>2:00 PM</td>
-                <td>Panel Discussion</td>
-              </tr>
-              <tr>
-                <td>4:00 PM</td>
-                <td>Closing Remarks</td>
+                <td>2:30pm - 4:30pm</td>
+                <td>Distributed Data Processing</td>
               </tr>
             </tbody>
           </table>
         </div>
         <h2>Agenda - Day 2</h2>
         <ul class="agenda-list list-group">
-          <li class="list-group-item">Registration - 9:00 AM</li>
+          <li class="list-group-item">Registration - 8:30 AM</li>
+          <li class="list-group-item">Breakfast - 9:00 AM</li>
           <li class="list-group-item">Workshop 2 - 10:00 AM</li>
           <li class="list-group-item">Lunch Break - 12:00 PM</li>
           <li class="list-group-item">Panel Discussion - 2:00 PM</li>
@@ -574,6 +384,7 @@
         <h2>Schedule - Day 3</h2>
         <div class="schedule-table">
           <table class="table table-bordered">
+          <h2>Demos</h2>
             <thead>
               <tr>
                 <th>Time</th>
@@ -582,24 +393,11 @@
             </thead>
             <tbody>
               <tr>
-                <td>8:30 AM</td>
-                <td>Registration</td>
-              </tr>
-              <tr>
-                <td>9:30 AM</td>
-                <td>Workshop 3</td>
-              </tr>
-              <tr>
-                <td>12:00 PM</td>
-                <td>Lunch Break</td>
-              </tr>
-              <tr>
-                <td>1:30 PM</td>
-                <td>Panel Discussion</td>
-              </tr>
-              <tr>
-                <td>3:30 PM</td>
-                <td>Closing Ceremony</td>
+                <td>3pm - 6pm</td>
+                <td>AI and Data Science demos for invited SeniorSecondary school students from Gambia
+          High, Nusrat, St. Augustine, Marina, SOS
+        Hermann, SBEC, St Peters, Methodist
+            Academy and St. Joseph</td>
               </tr>
             </tbody>
           </table>
@@ -607,6 +405,7 @@
         <h2>Agenda - Day 3</h2>
         <ul class="agenda-list list-group">
           <li class="list-group-item">Registration - 8:30 AM</li>
+          <li class="list-group-item">Breakfast - 9:00 AM</li>
           <li class="list-group-item">Workshop 3 - 9:30 AM</li>
           <li class="list-group-item">Lunch Break - 12:00 PM</li>
           <li class="list-group-item">Panel Discussion - 1:30 PM</li>
@@ -662,8 +461,6 @@
 </div>
 </section>
 
-
-<section>
 <section class="team" id="orgs">
   <div class="container">
     <div class="row">
@@ -698,35 +495,8 @@
               <h2>German Research chair of Mathematics & Data science.</h2>
               <p>AIMS South Africa</p>
             </div>
+         
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
-              <div class="img-box">
-                <img src="/wp-content/uploads/2023/05/drjallow.png" class="img-responsive">
-                <ul class="text-center">
-                  <a href="#"><li><i class="fa fa-facebook"></i></li></a>
-                  <a href="#"><li><i class="fa fa-twitter"></i></li></a>
-                  <a href="#"><li><i class="fa fa-linkedin"></i></li></a>
-                </ul>
-              </div>
-              <h1>Dr. Abdou Karim Jallow</h1>
-              <h2>Associate Professor of Information Systems; </h2>
-              <p>Slippery Rock University</p>
-            </div>
-			
-			<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
-              <div class="img-box">
-                <img src="wp-content/uploads/2023/05/sheriffo-1.png" class="img-responsive">
-                <ul class="text-center">
-                  <a href="#"><li><i class="fa fa-facebook"></i></li></a>
-                  <a href="#"><li><i class="fa fa-twitter"></i></li></a>
-                  <a href="#"><li><i class="fa fa-linkedin"></i></li></a>
-                </ul>
-              </div>
-              <h1>Mr. Sheriffo Ceesay</h1>
-              <h2>Machine Learning PhD student  &nbsp;&nbsp;&nbsp;</h2>
-              <p>University of St Andrews</p>
-            </div>
-        
-			<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
               <div class="img-box">
                 <img src="/wp-content/uploads/2023/05/fred.jpg" class="img-responsive">
                 <ul class="text-center">
@@ -736,48 +506,90 @@
                 </ul>
               </div>
               <h1>Mr. Fred Sangol Uche</h1>
-              <h2>Assistant  Lecturer</h2>
+              <h2>ML Developer, Reseacher & Lecturer</h2>
+              <p> Medical Research Council</p>
+           
+            </div>
+			      <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
+              <div class="img-box">
+                <img src="wp-content/uploads/2023/05/sheriffo-1.png" class="img-responsive">
+                <ul class="text-center">
+                  <a href="#"><li><i class="fa fa-facebook"></i></li></a>
+                  <a href="#"><li><i class="fa fa-twitter"></i></li></a>
+                  <a href="#"><li><i class="fa fa-linkedin"></i></li></a>
+                </ul>
+              </div>
+              <h1>Mr. Sheriffo Ceesay</h1>
+              <h2>Machine Learning PhD student &nbsp;&nbsp;&nbsp;&nbsp;</h2>
+              <p>University of St Andrews</p>
+            </div>
+
+            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
+              <div class="img-box">
+                <img src="/wp-content/uploads/2023/05/malik.jpeg" class="img-responsive">
+                <ul class="text-center">
+                  <a href="#"><li><i class="fa fa-facebook"></i></li></a>
+                  <a href="#"><li><i class="fa fa-twitter"></i></li></a>
+                  <a href="#"><li><i class="fa fa-linkedin"></i></li></a>
+                </ul>
+              </div>
+              <h1>Mr. Malik Kolawole Lanlokun</h1>
+              <h2>Software Engineer & Intelligent Systems Teaching Assistant</h2>
+              <p>University of The Gambia</p>
+            </div>
+        
+            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
+              <div class="img-box">
+                <img src="wp-content/uploads/2023/05/Ousainou-1.jpeg" class="img-responsive">
+                <ul class="text-center">
+                  <a href="#"><li><i class="fa fa-facebook"></i></li></a>
+                  <a href="#"><li><i class="fa fa-twitter"></i></li></a>
+                  <a href="#"><li><i class="fa fa-linkedin"></i></li></a>
+                </ul>
+              </div>
+              <h1>Mr. Ousainou Jaiteh</h1>
+              <h2> Graduate Assistant  </h2>
               <p>University of The Gambia</p>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
               <div class="img-box">
-                <img src="/wp-content/uploads/2023/05/speakermrdibba.png" class="img-responsive">
+                <img src="/wp-content/uploads/2023/05/1630507121151-removebg-preview-1.png" class="img-responsive">
                 <ul class="text-center">
                   <a href="#"><li><i class="fa fa-facebook"></i></li></a>
                   <a href="#"><li><i class="fa fa-twitter"></i></li></a>
                   <a href="#"><li><i class="fa fa-linkedin"></i></li></a>
                 </ul>
               </div>
-              <h1>Mr. Lamin Dibba</h1>
-              <h2>Principal Statistician  </h2>
-              <p>Gambia Bureau of Statistics (GBoS)</p>
-            </div>
-            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
-              <div class="img-box">
-                <img src="/wp-content/uploads/2023/05/sowe.png" class="img-responsive">
-                <ul class="text-center">
-                  <a href="#"><li><i class="fa fa-facebook"></i></li></a>
-                  <a href="#"><li><i class="fa fa-twitter"></i></li></a>
-                  <a href="#"><li><i class="fa fa-linkedin"></i></li></a>
-                </ul>
-              </div>
-              <h1>Mr. Abdoulie Sowe</h1>
-              <h2>Director and Co-founder </h2>
-              <p>Lasting Solutions Ltd, the Gambia</p>
+              <h1>Mr. Muhammed Baldeh</h1>
+              <h2>Product Engineer </h2>
+              <p>Locumator</p>
             </div>
 			
 			  <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
               <div class="img-box">
-                <img src="/wp-content/uploads/2023/05/Beran.png" class="img-responsive">
+                <img src="/wp-content/uploads/2023/05/Ajifama.jpeg" class="img-responsive">
                 <ul class="text-center">
                   <a href="#"><li><i class="fa fa-facebook"></i></li></a>
                   <a href="#"><li><i class="fa fa-twitter"></i></li></a>
                   <a href="#"><li><i class="fa fa-linkedin"></i></li></a>
                 </ul>
               </div>
-			  <h1>Mrs. Beran Dondeh-Gillen</h1>
-			  <p>President</p>
-			  <h2>Information Technology of the Gambia (ITAG)</h2>
+            <h1>Miss. Aji Fama-Jobe</h1>
+            <p>IT Assistant</p>
+            <h2>World Bank Group</h2>
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
+              <div class="img-box">
+                <img src="images/orgs/wahab.jpg" class="img-responsive">
+                <ul class="text-center">
+                  <a href="#"><li><i class="fa fa-facebook"></i></li></a>
+                  <a href="#"><li><i class="fa fa-twitter"></i></li></a>
+                  <a href="#"><li><i class="fa fa-linkedin"></i></li></a>
+                </ul>
+              </div>
+              <h1>Mr. Wahab Jabang</h1>
+              <h2>Student: Computer Science Department</h2>
+              <p>Univerisity of The Gambia</p>
             </div>
 			
           </div>
@@ -787,7 +599,6 @@
   </div>
 </section>
 
-</section>
 
 
 
