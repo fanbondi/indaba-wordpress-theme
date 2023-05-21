@@ -584,21 +584,6 @@
             <p>IT Assistant</p>
             <h2>World Bank Group</h2>
         </div>
-        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
-              <div class="img-box">
-                <img src="images/orgs/wahab.jpg" class="img-responsive">
-                <ul class="text-center">
-                  <a href="#"><li><i class="fa fa-facebook"></i></li></a>
-                  <a href="#"><li><i class="fa fa-twitter"></i></li></a>
-                  <a href="#"><li><i class="fa fa-linkedin"></i></li></a>
-                </ul>
-              </div>
-              <h1>Mr. Wahab Jabang</h1>
-              <h2>Student: Computer Science Department</h2>
-              <p>Univerisity of The Gambia</p>
-            </div>
-			
-          </div>
         </div>
       </div>
     </div>
