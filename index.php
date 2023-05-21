@@ -4,7 +4,7 @@
   .speaker-img {
     flex: 1;
     width: 100%;
-    height: 200px;
+    height: 280px;
     object-fit: cover;
     border-radius: 10px 10px 0 0;
   }
@@ -47,8 +47,8 @@
         <div class="text">
           <h2>DEEP LEARNING <br>INDABA<strong>X</strong> <br />THE GAMBIA</h2>
           <span class="theme">Theme: The Application of Deep Learning in Agriculture </span>
-          <h4>University of The Gambia, Peace Building, Kanifing <br> June 06 - 08, 2023 </h4>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ1_JQg15WTMHg5oo_iJLKa6RlDmT0orO6skacEmJWzYqQvw/viewform" target="_blank" class="btn btn-lg btn-common  animated bounceIn">
+          <h4>University of The Gambia, Peace Building, Kanifing <br> June 19 - 21, 2023 </h4>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScHSjmAoJEQh6f61wg-Pqt2kSxxE_eUDWxDCZMzv8kmG5U1WQ/viewform" target="_blank" class="btn btn-lg btn-common  animated bounceIn">
             <blink><i class="fa fa-address-card-o 2x" aria-hidden="true"></i> </u></blink>
 
             <small> Apply Now</small>
@@ -88,7 +88,7 @@
           </div>
           <div class="desc">
             <h4>Date & Time</h4>
-            <p>08h30 - 17h00, June 06 - 08, 2023</p>
+            <p>08h30 - 17h00, June 19 - 21, 2023</p>
           </div>
         </div>
       </div>
@@ -189,7 +189,7 @@
       <div class=" col-md-3 col-sm-6 col-xs-12">
         <div class="card speakers-member wow fadeIn" data-wow-delay="0.1s">
 
-          <img src="wp-content/uploads/2023/05/man.png" alt="" class="speaker-img">
+          <img src="/wp-content/uploads/2023/05/dina-1.jpg" alt="" class="speaker-img">
 
           <div class="member-desc">
             <h3>Dr. Dina Machuve</h3>
@@ -228,7 +228,7 @@
       <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
 
-          <img src="wp-content/uploads/2023/05/man" alt="" class="speaker-img">
+          <img src="/wp-content/uploads/2023/05/ernest.jpeg" alt="" class="speaker-img">
 
           <div class="member-desc">
             <h3>Dr. Ernest Mwebaze</h3>
@@ -270,7 +270,7 @@
       <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="card speakers-member wow fadeIn" data-wow-delay="0.1s">
 
-          <img src="wp-content/uploads/2023/05/man.png" alt="" class="speaker-img">
+          <img src="/wp-content/uploads/2023/05/download.jpeg" alt="" class="speaker-img">
 
           <div class="member-desc">
             <h3>Mr. Ousman Bah</h3>
@@ -310,7 +310,7 @@
       <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
 
-          <img src="wp-content/uploads/2023/05/fred.png" alt="" class="speaker-img">
+          <img src="/wp-content/uploads/2023/05/fred.jpg" alt="" class="speaker-img">
 
           <div class="member-desc">
             <h3>Mr. Fred Sangol Uche</h3>
@@ -520,13 +520,7 @@
           <a href="#"><img style="width:170px; height:125px;" src="/wp-content/uploads/2023/05/logo-lasting.png" alt=""></a>
         </div>
       </div>
-
-      <div class="col-md-3 col-sm-6 col-xs-12">
-        <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-          <a href="#"><img style="width:170px; height:125px;" src="/wp-content/uploads/2023/05/logonexits.png" alt=""></a>
-        </div>
-      </div>
-
+      
       <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
           <a href="#"><img style="width:170px; height:125px;" src="/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-20-at-11.22.31-AM.jpeg" alt=""></a>
@@ -570,7 +564,7 @@
             </div>
             <div class="organizer-card col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
               <div class="img-box">
-                <img src="wp-content/uploads/2023/05/speakerdrbah.png" class="img-responsive">
+                <img src="/wp-content/uploads/2023/05/drbah-1.jpg" class="img-responsive">
                 <ul class="text-center">
                   <a href="#">
                     <li><i class="fa fa-facebook"></i></li>
@@ -592,7 +586,7 @@
 
             <div class="organizer-card col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
               <div class="img-box">
-                <img src="wp-content/uploads/2023/05/fred.png" class="img-responsive">
+                <img src="/wp-content/uploads/2023/05/fred.png" class="img-responsive">
                 <ul class="text-center">
                   <a href="#">
                     <li><i class="fa fa-facebook"></i></li>
@@ -628,8 +622,8 @@
               </div>
               <div class="organizer-details">
                 <h5>Mr. Sheriffo Ceesay</h5>
-                <h6>Machine Learning PhD student &nbsp;&nbsp;&nbsp;&nbsp;</h6>
-                <p>University of St Andrews</p>
+                <h6>Huawei Technologies Research</h6>
+                <p>Senior Research Engineer</p>
               </div>
             </div>
 
@@ -713,9 +707,13 @@
                   </a>
                 </ul>
               </div>
-            <h1>Miss. Aji Fama-Jobe</h1>
-            <p>IT Assistant</p>
-            <h2>World Bank Group</h2>
+              <div class="organizer-details">
+                <h5>Aji Fama</h5>
+                <h6>World Bank Group</h6>
+
+              <p> IT Assitant </p>
+
+            </div>
         </div>
         </div>
       </div>
@@ -749,7 +747,7 @@
     <div class="container">
       <div class="row wow fadeInDown" data-wow-delay="0.3s">
         <div class="col-md-8 col-sm-7 contact-form">
-          <form method="POST" action="https://formspree.io/lamaranaj@gmail.com">
+          <form method="POST" action="https://formspree.io/f/xyyaaypk">
             <div class="title-header">
               <h3 class="title-medium pull-left">Send us a message</h3>
               <div class="icon pull-right"><i class="icon-envelope"></i></div>
