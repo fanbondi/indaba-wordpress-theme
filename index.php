@@ -20,7 +20,7 @@
   }
 
   .organizer-card {
-    height: 280px;
+    height: 420px;
     border: 1px solid #ddd;
     border-radius: 10px;
     padding: 0px;
@@ -29,8 +29,8 @@
 
   .img-responsive {
     width: 100%;
-    height: 150px;
-    object-fit: fill;
+    height: 300px;
+    object-fit: cover;
     border-radius: 10px 10px 0 0;
   }
 
@@ -520,7 +520,7 @@
           <a href="#"><img style="width:170px; height:125px;" src="/wp-content/uploads/2023/05/logo-lasting.png" alt=""></a>
         </div>
       </div>
-      
+
       <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
           <a href="#"><img style="width:170px; height:125px;" src="/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-20-at-11.22.31-AM.jpeg" alt=""></a>
