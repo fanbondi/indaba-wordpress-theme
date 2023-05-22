@@ -24,7 +24,6 @@
     border: 1px solid #ddd;
     border-radius: 10px;
     padding: 0px;
-
   }
 
   .img-responsive {
@@ -32,6 +31,17 @@
     height: 300px;
     object-fit: cover;
     border-radius: 10px 10px 0 0;
+  }
+
+  @media screen and (min-width: 650px) and (max-width:900px) {
+
+      .organizer-card {
+          height: 620px;
+      }
+
+      .img-responsive {
+          height: 500px;
+      }
   }
 
   .organizer-details {
