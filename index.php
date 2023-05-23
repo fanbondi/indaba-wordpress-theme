@@ -1,54 +1,57 @@
 <?php get_header(); ?>
 
 <style>
-  .speaker-img {
-    flex: 1;
-    width: 100%;
-    height: 280px;
-    object-fit: cover;
-    border-radius: 10px 10px 0 0;
-  }
+.speaker-img {
+  flex: 1;
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+}
 
-  .card {
-    height: 410px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-  }
+.card {
+  height: 480px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
 
-  .member-desc {
-    height: max-content;
-  }
+.member-desc {
+  height: max-content;
+}
+
+.organizer-card {
+  height: 420px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 0px;
+}
+
+.img-responsive {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+}
+
+@media only screen and (min-width: 650px) and (max-width:900px) {
+
+
 
   .organizer-card {
-    height: 420px;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    padding: 0px;
+    height: 620px;
   }
 
   .img-responsive {
-    width: 100%;
-    height: 300px;
-    object-fit: cover;
-    border-radius: 10px 10px 0 0;
+    height: 500px;
+
   }
+}
 
-  @media screen and (min-width: 650px) and (max-width:900px) {
-
-      .organizer-card {
-          height: 620px;
-      }
-
-      .img-responsive {
-          height: 500px;
-      }
-  }
-
-  .organizer-details {
-    height: max-content;
-    width: 100%;
-    padding: 5px 10px;
-  }
+.organizer-details {
+  height: max-content;
+  width: 100%;
+  padding: 5px 10px;
+}
 </style>
 <section class="countdown-timer section bgimg2">
   <div class="container">
@@ -58,7 +61,8 @@
           <h2>DEEP LEARNING <br>INDABA<strong>X</strong> <br />THE GAMBIA</h2>
           <span class="theme">Theme: The Application of Deep Learning in Agriculture </span>
           <h4>University of The Gambia, Peace Building, Kanifing <br> June 19 - 21, 2023 </h4>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLScHSjmAoJEQh6f61wg-Pqt2kSxxE_eUDWxDCZMzv8kmG5U1WQ/viewform" target="_blank" class="btn btn-lg btn-common  animated bounceIn">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScHSjmAoJEQh6f61wg-Pqt2kSxxE_eUDWxDCZMzv8kmG5U1WQ/viewform"
+            target="_blank" class="btn btn-lg btn-common  animated bounceIn">
             <blink><i class="fa fa-address-card-o 2x" aria-hidden="true"></i> </u></blink>
 
             <small> Apply Now</small>
@@ -510,13 +514,15 @@
       </div>
       <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.4s">
-          <a href="#"><img style="width:200px; height:125px; " src="/wp-content/uploads/2023/05/indabax.jpeg" alt=""></a>
+          <a href="#"><img style="width:200px; height:125px; " src="/wp-content/uploads/2023/05/indabax.jpeg"
+              alt=""></a>
         </div>
       </div>
 
       <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.2s">
-          <a href="#"><img style="width:200px; height:125px; " src="/wp-content/uploads/2023/05/logoAims.png" alt=""></a>
+          <a href="#"><img style="width:200px; height:125px; " src="/wp-content/uploads/2023/05/logoAims.png"
+              alt=""></a>
         </div>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-12">
@@ -527,13 +533,15 @@
 
       <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-          <a href="#"><img style="width:170px; height:125px;" src="/wp-content/uploads/2023/05/logo-lasting.png" alt=""></a>
+          <a href="#"><img style="width:170px; height:125px;" src="/wp-content/uploads/2023/05/logo-lasting.png"
+              alt=""></a>
         </div>
       </div>
 
       <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-          <a href="#"><img style="width:170px; height:125px;" src="/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-20-at-11.22.31-AM.jpeg" alt=""></a>
+          <a href="#"><img style="width:170px; height:125px;"
+              src="/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-20-at-11.22.31-AM.jpeg" alt=""></a>
         </div>
       </div>
 
@@ -721,14 +729,14 @@
                 <h5>Aji Fama</h5>
                 <h6>World Bank Group</h6>
 
-              <p> IT Assitant </p>
+                <p> IT Assitant </p>
 
+              </div>
             </div>
-        </div>
+          </div>
         </div>
       </div>
     </div>
-  </div>
 </section>
 
 
@@ -745,7 +753,9 @@
           with the following number
         <p>
       </div>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3880.2178314541634!2d-16.67921483580672!3d13.460665590536346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xec29a3537808581%3A0x1eb89bc2965717ee!2sUniversity+of+the+Gambia+-+Admin+Building%2C+Serrekunda!5e0!3m2!1sen!2sgm!4v1550284760187" width="100%" height="720px" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3880.2178314541634!2d-16.67921483580672!3d13.460665590536346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xec29a3537808581%3A0x1eb89bc2965717ee!2sUniversity+of+the+Gambia+-+Admin+Building%2C+Serrekunda!5e0!3m2!1sen!2sgm!4v1550284760187"
+        width="100%" height="720px" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
   </div>
 </section>
@@ -775,7 +785,8 @@
                 <div class="label-line">
                   <span class="span"></span>
                   <label class="label transition">Email</label>
-                  <input type="email" class="input" id="email" name="email" required data-error="Please enter your email">
+                  <input type="email" class="input" id="email" name="email" required
+                    data-error="Please enter your email">
                   <div class="help-block with-errors"></div>
                 </div>
               </div>
@@ -783,10 +794,12 @@
                 <div class="label-line textarea">
                   <span class="span"></span>
                   <label class="label transition">Message</label>
-                  <textarea id="message" name="message" class="input" required data-error="Write your message"></textarea>
+                  <textarea id="message" name="message" class="input" required
+                    data-error="Write your message"></textarea>
                   <div class="help-block with-errors"></div>
                 </div>
-                <button type="submit" id="form-submit" target="_blank" class="btn btn-common">Send <i class="icon-paper-plane" aria-hidden="true"></i></button>
+                <button type="submit" id="form-submit" target="_blank" class="btn btn-common">Send <i
+                    class="icon-paper-plane" aria-hidden="true"></i></button>
                 <div id="msgSubmit" class="h3 text-center hidden"></div>
                 <div class="clearfix"></div>
               </div>
