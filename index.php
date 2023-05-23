@@ -4,47 +4,96 @@
 .speaker-img {
   flex: 1;
   width: 100%;
-  height: 280px;
+  height: auto;
   object-fit: cover;
   border-radius: 10px 10px 0 0;
 }
 
 .card {
-  height: 480px;
+  height: 100%;
   border: 1px solid #ddd;
   border-radius: 10px;
+}
+
+.row-spk {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -15px; /* Adjust margin as needed */
+}
+
+.col-lg-3 {
+  flex: 0 0 25%; /* Each card occupies 25% of the row width */
+  max-width: 25%; /* Each card occupies 25% of the row width */
+  padding: 15px; /* Adjust padding as needed */
+}
+
+@media (max-width: 991px) {
+  .speaker-card {
+    flex-basis: 50%;
+    max-width: 50%;
+  }
+}
+
+@media (max-width: 767px) {
+  .speaker-card {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
 }
 
 .member-desc {
   height: max-content;
 }
 
-.organizer-card {
-  height: 420px;
-  border: 1px solid #ddd;
-  border-radius: 10px;
-  padding: 0px;
+.row.pt-md {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -15px; /* Add negative margin to counteract column padding */
 }
 
-.img-responsive {
+
+
+.organizer-card {
+  height: 100%;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 0px 20px;
+  box-sizing: border-box; /* Include padding in width calculation */
+  flex: 0 0 calc(25% - 30px); /* Set flex properties to allow four cards in each row */
+  max-width: calc(25% - 30px); /* Set max-width to limit card width */
+  margin: 15px; /* Add margin for spacing between cards */
+}
+
+@media (max-width: 768px) {
+  .organizer-card {
+    flex: 0 0 calc(50% - 30px); /* Set flex properties for two cards in each row on tablet view */
+    max-width: calc(50% - 30px); /* Set max-width for two cards in each row on tablet view */
+  }
+}
+
+@media (max-width: 576px) {
+  .organizer-card {
+    flex: 0 0 calc(100% - 30px); /* Set flex properties for single card in each row on mobile view */
+    max-width: calc(100% - 30px); /* Set max-width for single card in each row on mobile view */
+  }
+}
+
+.img-box {
+  flex: 1; 
+}
+
+.img-box img {
   width: 100%;
-  height: 300px;
+  height: 100%;
   object-fit: cover;
   border-radius: 10px 10px 0 0;
 }
 
-@media only screen and (min-width: 650px) and (max-width:900px) {
-
-
-
-  .organizer-card {
-    height: 620px;
-  }
-
-  .img-responsive {
-    height: 500px;
-
-  }
+.img-responsive {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
 }
 
 .organizer-details {
@@ -200,88 +249,89 @@
         <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Speakers whose focus are on data science, with
           plans to develop a vibrant research group on data science in The Gambia.</p>
       </div>
-      <div class=" col-md-3 col-sm-6 col-xs-12">
-        <div class="card speakers-member wow fadeIn" data-wow-delay="0.1s">
+      <div class="row-spk">
+        <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+          <div class="card speakers-member wow fadeIn" data-wow-delay="0.1s">
 
-          <img src="/wp-content/uploads/2023/05/dina-1.jpg" alt="" class="speaker-img">
+            <img src="/wp-content/uploads/2023/05/dina-1.jpg" alt="" class="speaker-img">
 
-          <div class="member-desc">
-            <h3>Dr. Dina Machuve</h3>
-            <h5> DevData Analytics </h5>
-            <p>Cofounder & CTO, DevData Analytics, Tanzania</p>
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+            <div class="member-desc">
+              <h3>Dr. Dina Machuve</h3>
+              <h5> DevData Analytics </h5>
+              <p>Cofounder & CTO, DevData Analytics, Tanzania</p>
+              <div class="social-icon">
+                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
 
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+          <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
+
+            <img src="wp-content/uploads/2023/05/Mbemba-Hydara.jpg" alt="" class="speaker-img">
+
+            <div class="member-desc">
+              <h3>Dr. Mbemba Hydara </h3>
+              <h5>Univerisity of The Gambia</h5>
+              <p>Dean, Faculty of I.C.T</p>
+              <div class="social-icon">
+                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+          <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
+
+            <img src="/wp-content/uploads/2023/05/ernest.jpeg" alt="" class="speaker-img">
+
+            <div class="member-desc">
+              <h3>Dr. Ernest Mwebaze</h3>
+              <h5>Sunbird AI</h5>
+              <p>Strategy Lead, Sunbird AI, Uganda;</p>
+              <div class="social-icon">
+                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+          <div class="card speakers-member wow fadeIn" data-wow-delay="0.1s">
+
+            <img src="wp-content/uploads/2023/05/Moustapha.jpg" alt="" class="speaker-img">
+
+            <div class="member-desc">
+              <h3>Prof. Moustapha Cisse</h3>
+              <h5>Google AI Center </h5>
+              <p> Research Scientist in AI</p>
+              <div class="social-icon">
+                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+
+              </div>
             </div>
           </div>
         </div>
       </div>
-      <div class="col-md-3 col-sm-6 col-xs-12">
-        <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
 
-          <img src="wp-content/uploads/2023/05/Mbemba-Hydara.jpg" alt="" class="speaker-img">
-
-          <div class="member-desc">
-            <h3>Dr. Mbemba Hydara </h3>
-            <h5>Univerisity of The Gambia</h5>
-            <p>Dean, Faculty of I.C.T</p>
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-6 col-xs-12">
-        <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
-
-          <img src="/wp-content/uploads/2023/05/ernest.jpeg" alt="" class="speaker-img">
-
-          <div class="member-desc">
-            <h3>Dr. Ernest Mwebaze</h3>
-            <h5>Sunbird AI</h5>
-            <p>Strategy Lead, Sunbird AI, Uganda;</p>
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
-          </div>
-        </div>
-      </div>
-
-
-      <div class="col-md-3 col-sm-6 col-xs-12">
-        <div class="card speakers-member wow fadeIn" data-wow-delay="0.1s">
-
-          <img src="wp-content/uploads/2023/05/Moustapha.jpg" alt="" class="speaker-img">
-
-          <div class="member-desc">
-            <h3>Prof. Moustapha Cisse</h3>
-            <h5>Google AI Center </h5>
-            <p> Research Scientist in AI</p>
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
-          </div>
-        </div>
-      </div>
-
-
-      <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="row-spk">
+      <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
         <div class="card speakers-member wow fadeIn" data-wow-delay="0.1s">
 
           <img src="/wp-content/uploads/2023/05/download.jpeg" alt="" class="speaker-img">
@@ -301,7 +351,7 @@
         </div>
       </div>
 
-      <div class="col-md-3 col-sm-6 col-xs-12">
+      <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
         <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
 
           <img src="wp-content/uploads/2023/05/sheriffo.png" alt="" class="speaker-img">
@@ -321,7 +371,7 @@
         </div>
       </div>
 
-      <div class="col-md-3 col-sm-6 col-xs-12">
+      <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
         <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
 
           <img src="/wp-content/uploads/2023/05/fred.jpg" alt="" class="speaker-img">
@@ -340,8 +390,10 @@
           </div>
         </div>
       </div>
+      </div>
+  </div>
+  </div>
 </section>
-
 
 <section id="schedule" class="section">
   <div class="container">
@@ -498,8 +550,6 @@
 
       </div>
     </div>
-  </div>
-
 
 </section>
 
