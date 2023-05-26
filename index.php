@@ -109,7 +109,7 @@
         <div class="text">
           <h2>DEEP LEARNING <br>INDABA<strong>X</strong> <br />THE GAMBIA</h2>
           <span class="theme">Theme: The Application of Deep Learning in Agriculture </span>
-          <h4>University of The Gambia, Peace Building, Kanifing <br> June 19 - 21, 2023 </h4>
+          <h4>University of The Gambia, Peace Building, Kanifing <br> June 20 - 22, 2023 </h4>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLScHSjmAoJEQh6f61wg-Pqt2kSxxE_eUDWxDCZMzv8kmG5U1WQ/viewform"
             target="_blank" class="btn btn-lg btn-common  animated bounceIn">
             <blink><i class="fa fa-address-card-o 2x" aria-hidden="true"></i> </u></blink>
@@ -151,7 +151,7 @@
           </div>
           <div class="desc">
             <h4>Date & Time</h4>
-            <p>08h30 - 17h00, June 19 - 21, 2023</p>
+            <p>08h30 - 17h00, June 20 - 22, 2023</p>
           </div>
         </div>
       </div>
@@ -378,8 +378,8 @@
 
           <div class="member-desc">
             <h3>Mr. Fred Sangol Uche</h3>
-            <h5> Medical Research Council</h5>
-            <p>ML Developer, Reseacher & Lecturer</p>
+            <h5> Medical Research Council Gambia at LSHTM</h5>
+            <p>Researcher and Developer</p>
             <div class="social-icon">
               <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
               <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -647,8 +647,8 @@
               </div>
               <div class="organizer-details">
                 <h5>Dr. Bubacarr Bah</h5>
-                <h6>German Research chair of Mathematics & Data science.</h6>
-                <p>AIMS South Africa</p>
+                <h6>Associate Professor and Head of Data Science</h6>
+                <p>Medical Research Council Unit Gambia, LSTHM</p>
               </div>
             </div>
 
@@ -669,8 +669,8 @@
               </div>
               <div class="organizer-details">
                 <h5>Mr. Fred Sangol Uche</h5>
-                <h6>ML Developer, Reseacher & Lecturer</h6>
-                <p> Medical Research Council</p>
+                <h6>Researcher and Developer</h6>
+                <p> Medical Research Council Gambia, LSHTM</p>
               </div>
             </div>
             <div class="organizer-card col-lg-3 col-md-3 col-sm-4 col-xs-12 profile">
@@ -777,9 +777,9 @@
               </div>
               <div class="organizer-details">
                 <h5>Aji Fama</h5>
-                <h6>World Bank Group</h6>
+                <h6>IT Assistant</h6>
 
-                <p> IT Assitant </p>
+                <p> World Bank Group</p>
 
               </div>
             </div>
