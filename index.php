@@ -559,7 +559,7 @@
     <div class="row">
       <div class="col-md-12">
         <h2 class="section-title wow fadeInUp" data-wow-delay="0s">Our Sponsors</h2>
-        <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Proud to be ed with the following institutions,
+        <p class="section-subcontent wow fadeInUp" data-wow-delay="0.2s">Proud to be involved with the following institutions,
           we thank them for helping to be part of this initiative.</p>
       </div>
       <div class="col-md-3 col-sm-6 col-xs-12">
