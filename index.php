@@ -109,7 +109,7 @@
         <div class="text">
           <h2>DEEP LEARNING <br>INDABA<strong>X</strong> <br />THE GAMBIA</h2>
           <span class="theme">Theme: The Application of Deep Learning in Agriculture </span>
-          <h4>University of The Gambia, Peace Building, Kanifing <br> June 20 - 22, 2023 </h4>
+          <h4>University of The Gambia, Peace Building, Kanifing <br> June 25 - 27, 2023 </h4>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLScHSjmAoJEQh6f61wg-Pqt2kSxxE_eUDWxDCZMzv8kmG5U1WQ/viewform"
             target="_blank" class="btn btn-lg btn-common  animated bounceIn">
             <blink><i class="fa fa-address-card-o 2x" aria-hidden="true"></i> </u></blink>
@@ -151,7 +151,7 @@
           </div>
           <div class="desc">
             <h4>Date & Time</h4>
-            <p>08h30 - 17h00, June 20 - 22, 2023</p>
+            <p>08h30 - 17h00, June 25 - 27, 2023</p>
           </div>
         </div>
       </div>
