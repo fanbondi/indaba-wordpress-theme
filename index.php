@@ -4,7 +4,7 @@
 .speaker-img {
   flex: 1;
   width: 100%;
-  height: auto;
+  height: 250px;
   object-fit: cover;
   border-radius: 10px 10px 0 0;
 }
@@ -79,7 +79,7 @@
 }
 
 .img-box {
-  flex: 1; 
+  flex: 1;
 }
 
 .img-box img {
@@ -657,7 +657,7 @@
               <h3>Dr. Bubacarr Bah </h3>
               <h5>Medical Research Council Unit Gambia at LSHTM</h5>
               <p>Head of Data Science</p>
-              
+
               <div class="social-icon">
                 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -678,7 +678,7 @@
               <h3>Mr. Fred Sangol Uche</h3>
               <h5>Researcher & Developer </h5>
               <p>Medical Research Council Unit Gambia at LSTHM</p>
-            
+
               <div class="social-icon">
                 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -699,7 +699,7 @@
               <h3>Mr. Sheriffo Ceesay</h3>
               <h5>Senior Research Engineer</h5>
               <p> Huawei Technologies Research</p>
- 
+
               <div class="social-icon">
                 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -710,130 +710,127 @@
             </div>
           </div>
         </div>
+          <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+              <div class="card speakers-member wow fadeIn" data-wow-delay="0.1s">
+
+                  <img src="wp-content/uploads/2023/05/beran.jpg" alt="" class="speaker-img">
+
+                  <div class="member-desc">
+                      <h3>Mrs. Beran Dondeh-Gillen</h3>
+                      <h5>CEO and Co-Founder</h5>
+                      <p> The Hub Ltd</p>
+
+                      <div class="social-icon">
+                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+              <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
+
+                  <img src="wp-content/uploads/2023/05/dibba.png" alt="" class="speaker-img">
+
+                  <div class="member-desc">
+                      <h3>Mr. Lamin Dibba</h3>
+                      <h5>Gambia Bureau of Statistics (GBoS)</h5>
+                      <p>Principal Statistician</p>
+                      <div class="social-icon">
+                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+              <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
+
+                  <img src="wp-content/uploads/2023/05/sowe.png" alt="" class="speaker-img">
+
+                  <div class="member-desc">
+                      <h3>Mr. Abdoulie Sowe</h3>
+                      <h5> Director and Co-founder</h5>
+                      <p>Lasting Solutions Ltd, the Gambia</p>
+
+                      <div class="social-icon">
+                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+              <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
+
+                  <img src="wp-content/uploads/2023/07/WhatsApp-Image-2023-04-03-at-2.05.21-PM.jpeg" alt="" class="speaker-img">
+
+                  <div class="member-desc">
+                      <h3>Mr. Abdou Darboe</h3>
+                      <h5> University Of The Gambia</h5>
+                      <p>Director of IT</p>
+
+                      <div class="social-icon">
+                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+              <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
+
+                  <img src="/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-05-at-4.41.01-PM.jpeg" alt="" class="speaker-img">
+
+                  <div class="member-desc">
+                      <h3>Olawale Adefisayo Fabiyi</h3>
+                      <h5> American International Univerisity, The Gambia</h5>
+                      <p>Head, Computer Science & Technology</p>
+
+                      <div class="social-icon">
+                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+              <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
+
+                  <img src="wp-content/uploads/2023/05/drjallow-1.png" alt="" class="speaker-img">
+
+                  <div class="member-desc">
+                      <h3>Dr. Abdou Karim Jallow</h3>
+                      <h5> Slippery Rock University</h5>
+                      <p>Assoc. Prof. of Information Systems</p>
+
+                      <div class="social-icon">
+                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+
+                      </div>
+                  </div>
+              </div>
+          </div>
       </div>
 
-      <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
-        <div class="card speakers-member wow fadeIn" data-wow-delay="0.1s">
-
-          <img src="wp-content/uploads/2023/05/beran.jpg" alt="" class="speaker-img">
-
-          <div class="member-desc">
-            <h3>Mrs. Beran Dondeh-Gillen</h3>
-            <h5>CEO and Co-Founder</h5>
-            <p> The Hub Ltd</p>
-         
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
-        <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
-
-          <img src="wp-content/uploads/2023/05/dibba.png" alt="" class="speaker-img">
-
-          <div class="member-desc">
-            <h3>Mr. Lamin Dibba</h3>
-            <h5>Gambia Bureau of Statistics (GBoS)</h5>
-            <p>Principal Statistician</p>
-           </div>
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
-        <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
-
-          <img src="wp-content/uploads/2023/05/sowe.png" alt="" class="speaker-img">
-
-          <div class="member-desc">
-            <h3>Mr. Abdoulie Sowe</h3>
-            <h5> Director and Co-founder</h5>
-            <p>Lasting Solutions Ltd, the Gambia</p>
-           
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
-        <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
-
-          <img src="wp-content/uploads/2023/07/WhatsApp-Image-2023-04-03-at-2.05.21-PM.jpeg" alt="" class="speaker-img">
-
-          <div class="member-desc">
-            <h3>Mr. Abdou Darboe</h3>
-            <h5> University Of The Gambia</h5>
-            <p>Director of IT</p>
-           
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
-        <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
-
-          <img src="/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-05-at-4.41.01-PM.jpeg" alt="" class="speaker-img">
-
-          <div class="member-desc">
-            <h3>Olawale Adefisayo Fabiyi</h3>
-            <h5> American International Univerisity, The Gambia</h5>
-            <p>Head, Computer Science & Technology</p>
-           
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
-        <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
-
-          <img src="wp-content/uploads/2023/05/drjallow-1.png" alt="" class="speaker-img">
-
-          <div class="member-desc">
-            <h3>Dr. Abdou Karim Jallow</h3>
-            <h5> Slippery Rock University</h5>
-            <p>Assoc. Prof. of Information Systems</p>
-          
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   </div>
@@ -856,7 +853,7 @@
               <h3>Mr. Malik Kolawole Lanlokun</h3>
               <h5> Univerisity of The Gambia </h5>
               <p>Software Engineer & Intelligent Systems Teaching Assistant </p>
-              
+
               <div class="social-icon">
                 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -874,9 +871,9 @@
 
             <div class="member-desc">
               <h3>Mr. Ousainou Jaiteh </h3>
-              <h5>>University of The Gambia</h5>
+              <h5>University of The Gambia</h5>
               <p>Graduate Assistant</p>
-              
+
               <div class="social-icon">
                 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -897,7 +894,7 @@
               <h3>Mr. Muhammed Baldeh</h3>
               <h5>Locumator </h5>
               <p>Product Engineer</p>
-            
+
               <div class="social-icon">
                 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
                 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
