@@ -4,7 +4,7 @@
 .speaker-img {
   flex: 1;
   width: 100%;
-  height: 250px;
+  height: auto;
   object-fit: cover;
   border-radius: 10px 10px 0 0;
 }
@@ -25,20 +25,6 @@
   flex: 0 0 25%; /* Each card occupies 25% of the row width */
   max-width: 25%; /* Each card occupies 25% of the row width */
   padding: 25px; /* Adjust padding as needed */
-}
-
-@media (max-width: 991px) {
-  .speaker-card {
-    flex-basis: 50%;
-    max-width: 50%;
-  }
-}
-
-@media (max-width: 767px) {
-  .speaker-card {
-    flex-basis: 100%;
-    max-width: 100%;
-  }
 }
 
 .member-desc {
@@ -65,14 +51,14 @@
 }
 
 @media (max-width: 768px) {
-  .organizer-card {
+  .speaker-card {
     flex: 0 0 calc(50% - 30px); /* Set flex properties for two cards in each row on tablet view */
     max-width: calc(50% - 30px); /* Set max-width for two cards in each row on tablet view */
   }
 }
 
 @media (max-width: 576px) {
-  .organizer-card {
+  .speaker-card {
     flex: 0 0 calc(100% - 30px); /* Set flex properties for single card in each row on mobile view */
     max-width: calc(100% - 30px); /* Set max-width for single card in each row on mobile view */
   }
@@ -501,11 +487,6 @@
                 <td>2:00 pm - 2:30 pm</td>
                 <td>-</td>
                 <td>Launch Gambia AI Network (GAIN)</td>
-              </tr>
-              <tr>
-                  <td>2:30 pm - 4:00 pm</td>
-                  <td>-</td>
-                  <td>Introduction to Deep Learning and Data Science</td>
               </tr>
               <tr>
                   <td>2:30 pm - 4:00 pm</td>
@@ -944,6 +925,27 @@
             </div>
           </div>
         </div>
+        <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+          <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
+
+            <img src="wp-content/uploads/2023/07/WhatsApp-Image-2023-07-06-at-8.28.39-PM.jpeg" alt="" class="speaker-img">
+
+            <div class="member-desc">
+              <h3>Mr. Sulayman A. Jallow</h3>
+              <h5>Cerenade </h5>
+              <p>Software Engineer</p>
+
+              <div class="social-icon">
+                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
 </section>
 
