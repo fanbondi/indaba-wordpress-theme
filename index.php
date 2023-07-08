@@ -337,7 +337,7 @@
           <img src="/wp-content/uploads/2023/07/ezgif.com-webp-to-jpg.jpg" alt="" class="speaker-img">
 
           <div class="member-desc">
-            <h3>Mr. Ousman Bah</h3>
+            <h3>Honourable Ousman Bah</h3>
             <h5>Ministry of Communications and Digital Economy </h5>
             <p> Minister</p>
             <div class="social-icon">
