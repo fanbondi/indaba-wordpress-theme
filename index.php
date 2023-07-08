@@ -110,11 +110,11 @@
           <h2>DEEP LEARNING <br>INDABA<strong>X</strong> <br />THE GAMBIA</h2>
           <span class="theme">Theme: The Application of Deep Learning in Agriculture </span>
           <h4>University of The Gambia, Peace Building, Kanifing <br> July 25 - 27, 2023 </h4>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLScHSjmAoJEQh6f61wg-Pqt2kSxxE_eUDWxDCZMzv8kmG5U1WQ/viewform"
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScMO0feFXXiCUNxzRPUWJ6Yh4aVuKIV8JTMZE6PCXEuJxAMHg/viewform"
             target="_blank" class="btn btn-lg btn-common  animated bounceIn">
             <blink><i class="fa fa-address-card-o 2x" aria-hidden="true"></i> </u></blink>
 
-            <small> Apply Now</small>
+            <small>Apply Now</small>
           </a>
         </div>
       </div>
@@ -410,6 +410,26 @@
           </div>
         </div>
       </div>
+        <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+            <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
+
+                <img src="/wp-content/uploads/2023/05/drbah-1.jpg" alt="" class="speaker-img">
+
+                <div class="member-desc">
+                    <h3>Dr. Bubacarr Bah </h3>
+                    <h5>Medical Research Council Unit Gambia at LSHTM</h5>
+                    <p>Head of Data Science</p>
+
+                    <div class="social-icon">
+                        <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
+                        <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
+                        <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
+                        <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
   </div>
   </div>
@@ -483,9 +503,14 @@
                 <td>Launch Gambia AI Network (GAIN)</td>
               </tr>
               <tr>
-                <td>2:30 pm - 4:00 pm</td>
-                <td>-</td>
-                <td>Introduction to Deep Learning and Data Science</td>
+                  <td>2:30 pm - 4:00 pm</td>
+                  <td>-</td>
+                  <td>Introduction to Deep Learning and Data Science</td>
+              </tr>
+              <tr>
+                  <td>2:30 pm - 4:00 pm</td>
+                  <td>Dr. Bubacarr Bah</td>
+                  <td>Introduction to Deep Learning and Data Science</td>
               </tr>
             </tbody>
           </table>
@@ -584,13 +609,6 @@
       <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.4s">
           <a href="#"><img style="width:170px; height:125px;" src="/wp-content/uploads/2023/05/indabax.jpeg"
-              alt=""></a>
-        </div>
-      </div>
-
-      <div class="col-md-3 col-sm-6 col-xs-12">
-        <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.2s">
-          <a href="#"><img style="width:170px; height:125px;" src="/wp-content/uploads/2023/05/logoAims.png"
               alt=""></a>
         </div>
       </div>
