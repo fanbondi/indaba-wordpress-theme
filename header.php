@@ -48,11 +48,11 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6">
+                <div class="quick-contacts">
+                    <span><i class="icon-phone"></i> (220) 377 5908 </span>
+                    <span><a href="https://twitter.com/IndabaXGambia"><i class="fab fa-twitter"></i> Follow us on Twitter</a></span>
+                </div>
 
-                    <div class="quick-contacts">
-                        <span><i class="icon-phone"></i> (220) 373 9799 </span>
-
-                    </div>
 
                 </div>
             </div>

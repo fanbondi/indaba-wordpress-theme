@@ -10,7 +10,7 @@
 }
 
 .card {
-  height: 100%;
+  height: auto;
   border: 1px solid #ddd;
   border-radius: 10px;
 }
@@ -25,6 +25,7 @@
   flex: 0 0 25%; /* Each card occupies 25% of the row width */
   max-width: 25%; /* Each card occupies 25% of the row width */
   padding: 25px; /* Adjust padding as needed */
+
 }
 
 .member-desc {
@@ -245,13 +246,6 @@
               <h3>Dr. Dina Machuve</h3>
               <h5> DevData Analytics </h5>
               <p>Cofounder & CTO, DevData Analytics, Tanzania</p>
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
             </div>
           </div>
         </div>
@@ -264,13 +258,7 @@
               <h3>Dr. Mbemba Hydara </h3>
               <h5>Univerisity of The Gambia</h5>
               <p>Dean, Faculty of I.C.T</p>
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
+           
             </div>
           </div>
         </div>
@@ -284,13 +272,7 @@
               <h3>Dr. Ernest Mwebaze</h3>
               <h5>Sunbird AI</h5>
               <p>Strategy Lead, Sunbird AI, Uganda;</p>
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
+           
             </div>
           </div>
         </div>
@@ -304,13 +286,7 @@
               <h3>Prof. Moustapha Cisse</h3>
               <h5>Google AI Center </h5>
               <p> Research Scientist in AI</p>
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
+           
             </div>
           </div>
         </div>
@@ -326,13 +302,7 @@
             <h3>Honourable Ousman Bah</h3>
             <h5>Ministry of Communications and Digital Economy </h5>
             <p> Minister</p>
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
+         
           </div>
         </div>
       </div>
@@ -346,13 +316,7 @@
             <h3>Dr. Sheriffo Ceesay</h3>
             <h5>Huawei Technologies Research</h5>
             <p>Senior Research Engineer</p>
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
+            
           </div>
         </div>
       </div>
@@ -366,13 +330,7 @@
             <h3>Mr. Fred Sangol Uche</h3>
             <h5> Medical Research Council Gambia at LSHTM</h5>
             <p>Researcher and Developer</p>
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-            </div>
+  
           </div>
         </div>
       </div>
@@ -383,16 +341,23 @@
           <img src="/wp-content/uploads/2023/07/ismael.jpeg" alt="" class="speaker-img">
 
           <div class="member-desc">
-            <h3>Mr. Ismaël KONÉ</h3>
+            <h3>Dr. Ismaël KONÉ</h3>
             <h5> Medical Research Council Gambia at LSHTM</h5>
             <p>Data Science Postdoctoral Researcher in Epidemics</p>
-            <div class="social-icon">
-              <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-              <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
+         
+          </div>
+        </div>
+      </div>
+      <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+        <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
 
-            </div>
+          <img src="wp-content/uploads/2023/07/WhatsApp-Image-2023-07-11-at-1.37.31-PM.jpeg" alt="" class="speaker-img">
+
+          <div class="member-desc">
+            <h3>Mr. Jeremiah Ayock Ishaya</h3>
+            <h5> African institute for Mathematical Science</h5>
+            <p>PhD Students in Data Science</p>
+         
           </div>
         </div>
       </div>
@@ -405,14 +370,6 @@
                     <h3>Dr. Bubacarr Bah </h3>
                     <h5>Medical Research Council Unit Gambia at LSHTM</h5>
                     <p>Head of Data Science</p>
-
-                    <div class="social-icon">
-                        <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                        <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                        <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                        <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-                    </div>
                 </div>
             </div>
         </div>
@@ -439,7 +396,7 @@
               <tr>
                 <th>Time</th>
                 <th>Speaker</th>
-                <th>Topic</th>
+                <th>Activity</th>
               </tr>
             </thead>
             <tbody>
@@ -464,7 +421,7 @@
                 <td>Dr. Ernest Mwebaze, Strategy Lead, Sunbird AI, Uganda</td>
               </tr>
               <tr>
-                <td>12:00 am - 12:30 pm </td>
+                <td>12:00 pm - 12:30 pm </td>
                 <td> </td>- </td>
                 <td>Poster session presentation</td>
               </tr>
@@ -556,7 +513,7 @@
             </thead>
             <tbody>
               <tr>
-                <td>10am - 2pm</td>
+                <td>10am - 12pm</td>
                 <td>First session of demos</td>
               </tr>
 
@@ -567,7 +524,7 @@
 
               <tr>
                 <td>12:20pm - 2:00pm</td>
-                <td>Second sessions of demos</td>
+                <td>Second session of demos</td>
               </tr>
             </tbody>
           </table>
@@ -621,7 +578,7 @@
 </section>
 
 
-<section id="speakers" class="section">
+<section id="orgs" class="section">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -637,13 +594,7 @@
               <h3>Mr. Lamarana Jallow</h3>
               <h5> Univerisity of The Gambia </h5>
               <p> Lecturer </p>
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
+             
             </div>
           </div>
         </div>
@@ -657,13 +608,7 @@
               <h5>Medical Research Council Unit Gambia at LSHTM</h5>
               <p>Head of Data Science</p>
 
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
+             
             </div>
           </div>
         </div>
@@ -675,16 +620,9 @@
 
             <div class="member-desc">
               <h3>Mr. Fred Sangol Uche</h3>
-              <h5>Researcher & Developer </h5>
-              <p>Medical Research Council Unit Gambia at LSTHM</p>
+              <h5>Medical Research Council Unit Gambia at LSTHM </h5>
+              <p>Researcher & Developer</p>
 
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
             </div>
           </div>
         </div>
@@ -695,17 +633,11 @@
             <img src="wp-content/uploads/2023/05/sheriffo.png" alt="" class="speaker-img">
 
             <div class="member-desc">
-              <h3>Mr. Sheriffo Ceesay</h3>
-              <h5>Senior Research Engineer</h5>
-              <p> Huawei Technologies Research</p>
+              <h3>Dr. Sheriffo Ceesay</h3>
+              <h5> Huawei Technologies Research</h5>
+              <p>Senior Research Engineer</p>
 
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
+            
             </div>
           </div>
         </div>
@@ -716,16 +648,10 @@
 
                   <div class="member-desc">
                       <h3>Mrs. Beran Dondeh-Gillen</h3>
-                      <h5>CEO and Co-Founder</h5>
-                      <p> The Hub Ltd</p>
+                      <h5>The Hub Ltd</h5>
+                      <p>CEO and Co-Founder</p>
 
-                      <div class="social-icon">
-                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-                      </div>
+                    
                   </div>
               </div>
           </div>
@@ -739,12 +665,7 @@
                       <h3>Mr. Lamin Dibba</h3>
                       <h5>Gambia Bureau of Statistics (GBoS)</h5>
                       <p>Principal Statistician</p>
-                      <div class="social-icon">
-                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-                      </div>
+                   
                   </div>
               </div>
           </div>
@@ -755,16 +676,9 @@
 
                   <div class="member-desc">
                       <h3>Mr. Abdoulie Sowe</h3>
-                      <h5> Director and Co-founder</h5>
-                      <p>Lasting Solutions Ltd, the Gambia</p>
+                      <h5>Lasting Solutions Ltd, the Gambia </h5>
+                      <p>Director and Co-founder</p>
 
-                      <div class="social-icon">
-                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-                      </div>
                   </div>
               </div>
           </div>
@@ -778,13 +692,6 @@
                       <h5> University Of The Gambia</h5>
                       <p>Director of IT</p>
 
-                      <div class="social-icon">
-                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-                      </div>
                   </div>
               </div>
           </div>
@@ -794,17 +701,10 @@
                   <img src="/wp-content/uploads/2023/07/WhatsApp-Image-2023-07-05-at-4.41.01-PM.jpeg" alt="" class="speaker-img">
 
                   <div class="member-desc">
-                      <h3>Olawale Adefisayo Fabiyi</h3>
+                      <h3>Mr. Olawale Adefisayo Fabiyi</h3>
                       <h5> American International Univerisity, The Gambia</h5>
                       <p>Head, Computer Science & Technology</p>
 
-                      <div class="social-icon">
-                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-                      </div>
                   </div>
               </div>
           </div>
@@ -818,13 +718,6 @@
                       <h5> Slippery Rock University</h5>
                       <p>Assoc. Prof. of Information Systems</p>
 
-                      <div class="social-icon">
-                          <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                          <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-                      </div>
                   </div>
               </div>
           </div>
@@ -850,16 +743,9 @@
 
             <div class="member-desc">
               <h3>Mr. Malik Kolawole Lanlokun</h3>
-              <h5> Univerisity of The Gambia </h5>
+              <h5> University of The Gambia </h5>
               <p>Software Engineer & Intelligent Systems Teaching Assistant </p>
 
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
             </div>
           </div>
         </div>
@@ -873,13 +759,6 @@
               <h5>University of The Gambia</h5>
               <p>Graduate Assistant</p>
 
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
             </div>
           </div>
         </div>
@@ -894,13 +773,6 @@
               <h5>Locumator </h5>
               <p>Product Engineer</p>
 
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
             </div>
           </div>
         </div>
@@ -911,17 +783,10 @@
             <img src="wp-content/uploads/2023/05/Ajifama.jpeg" alt="" class="speaker-img">
 
             <div class="member-desc">
-              <h3>Aji Fama Jobe</h3>
+              <h3>Miss. Aji Fama Jobe</h3>
               <h5> World Bank Group</h5>
               <p>IT Assistant</p>
 
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
             </div>
           </div>
         </div>
@@ -935,13 +800,6 @@
               <h5>Cerenade </h5>
               <p>Software Engineer</p>
 
-              <div class="social-icon">
-                <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
-                <a class="social" href="#" target="_blank"><i class="fa fa-dribbble"></i></a>
-
-              </div>
             </div>
           </div>
         </div>
@@ -1031,7 +889,7 @@
               <i class="fa fa-phone"></i>
             </div>
             <div class="info">
-              <span class="detail">+220 373 9799</span>
+              <span class="detail">+220 377 5908</span>
             </div>
           </div>
           <div class="contact-datails">
@@ -1041,11 +899,6 @@
             <div class="info">
               <span class="detail">info@indabax-gambia.org</span>
             </div>
-          </div>
-          <div class="social text-center">
-            <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>
-            <a class="social" href="#" target="_blank"><i class="fa fa-google-plus"></i></a>
-            <a class="social" href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
           </div>
         </div>
       </div>
