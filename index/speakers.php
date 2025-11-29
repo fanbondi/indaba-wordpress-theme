@@ -178,8 +178,8 @@
 </div>
 <div class="member-desc">
 <h3>Dr. Sheriffo Ceesay</h3>
-<h5>University of St Andrews</h5>
-<p>Postdoctoral Research Associate</p>
+<h5>Huawei Edinburgh Research Center</h5>
+<p>Senior Research Engineer</p>
 <div class="social-icon">
 <a class="social" href="#" target="_blank"><i class="fa fa-facebook"></i></a>
 <a class="social" href="#" target="_blank"><i class="fa fa-twitter"></i></a>

@@ -19,7 +19,7 @@
 </div>
 <div class="desc">
 <h4>Date & Time</h4>
-<p>08h30 - 17h00, May 27 - 29, 2021</p>
+<p>08h30 - 17h00, December 11 - 13, 2025</p>
 </div>
 </div>
 </div>

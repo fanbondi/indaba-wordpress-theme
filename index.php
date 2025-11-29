@@ -95,8 +95,8 @@
       <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInLeft" data-wow-delay="0.2s">
         <div class="text">
           <h2>DEEP LEARNING <br>INDABA<strong>X</strong> <br />THE GAMBIA</h2>
-          <span class="theme">Theme: The Application of Deep Learning in Agriculture </span>
-          <h4>University of The Gambia, Peace Building, Kanifing <br> July 25 - 27, 2023 </h4>
+          <span class="theme">Theme: Application of Artificial Intelligence in Education </span>
+          <h4>University of The Gambia, Peace Building, Kanifing <br> December 11 - 13, 2025 </h4>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLScMO0feFXXiCUNxzRPUWJ6Yh4aVuKIV8JTMZE6PCXEuJxAMHg/viewform"
             target="_blank" class="btn btn-lg btn-common  animated bounceIn">
             <blink><i class="fa fa-address-card-o 2x" aria-hidden="true"></i> </u></blink>
@@ -138,7 +138,7 @@
           </div>
           <div class="desc">
             <h4>Date & Time</h4>
-            <p>08h30 - 17h00, July 25 - 27, 2023</p>
+            <p>08h30 - 17h00, December 11 - 13, 2025</p>
           </div>
         </div>
       </div>
@@ -324,13 +324,25 @@
       <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
         <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
 
-          <img src="/wp-content/uploads/2023/05/fred.jpg" alt="" class="speaker-img">
+          <img src="/wp-content/uploads/2023/05/male.jpg" alt="" class="speaker-img">
 
           <div class="member-desc">
-            <h3>Mr. Fred Sangol Uche</h3>
-            <h5> Medical Research Council Gambia at LSHTM</h5>
-            <p>Researcher and Developer</p>
-  
+            <h3>Dr. Marco Barletta</h3>
+            <h5> Huawei Edinburgh Research Center</h5>
+            <p>Senior Research Engineer</p>
+          </div>
+        </div>
+      </div>
+
+       <div class="speaker-card col-lg-3 col-md-4 col-sm-6">
+        <div class="card speakers-member wow fadeIn" data-wow-delay="0.3s">
+
+          <img src="/wp-content/uploads/2023/05/male.jpg" alt="" class="speaker-img">
+
+          <div class="member-desc">
+            <h3>Mr. Amory Hoste</h3>
+            <h5>Huawei Edinburgh Research Center</h5>
+            <p>Senior Research Engineer</p>
           </div>
         </div>
       </div>
@@ -381,9 +393,9 @@
 <section id="schedule" class="section">
   <div class="container">
   <ul class="nav nav-tabs">
-  <li class="active"><a data-toggle="tab" href="#day1">Day 1 - 25/07/2023</a></li>
-  <li><a data-toggle="tab" href="#day2">Day 2 - 26/07/2023</a></li>
-  <li><a data-toggle="tab" href="#day3">Day 3 - 27/07/2023</a></li>
+  <li class="active"><a data-toggle="tab" href="#day1">Day 1 - 11/12/2025</a></li>
+  <li><a data-toggle="tab" href="#day2">Day 2 - 12/12/2025</a></li>
+  <li><a data-toggle="tab" href="#day3">Day 3 - 13/12/2025</a></li>
 </ul>
     <div class="tab-content">
       <div id="day1" class="tab-pane fade in active">
